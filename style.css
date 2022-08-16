@@ -21,3 +21,19 @@ header{
 .cl-lg-6 {
     width: 50%;
 }
+
+.strong1 {
+    color: #f90000
+}
+
+.vertical-container {
+    padding: 30px 40px 0;
+    margin: 0 20px 0 0;
+    background: #fafafa;
+    margin-top: 20px;
+
+}
+
+.position-image{
+    width: 530px;
+}
